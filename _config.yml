@@ -34,8 +34,3 @@ markdown: kramdown
 
 sass:
   style: compressed
-
-
-
-
-  "" # the subpath of your site, e.g. /blog
