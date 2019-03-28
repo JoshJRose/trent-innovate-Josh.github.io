@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About Us -needs a better title-
 nav-menu: true
 ---
 
